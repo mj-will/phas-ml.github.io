@@ -6,4 +6,5 @@ _site
 .ipynb_checkpoints
 
 # specifics 
-1809/
+*.tar.*
+*.tar.gz

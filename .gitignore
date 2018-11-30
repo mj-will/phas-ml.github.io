@@ -1,3 +1,9 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# iPython notebooks
+.ipynb_checkpoints
+
+# specifics 
+1809/
